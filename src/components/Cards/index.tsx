@@ -20,7 +20,7 @@ function Cards({
    */
 
   const handleAddCards = (index: number) => {
-    if (cards.length >= 4) return;
+    if (cards.length > 4) return;
 
     setCards([...cards, cardsData[index]]);
   };
