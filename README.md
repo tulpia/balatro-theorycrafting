@@ -3,8 +3,9 @@
 Permet de calculer la main la plus haute possible sur Balatro.
 
 ## TODO
+
 - [ ] DA @jonathan
-- [ ] Fonctionnement basique du deck de cartes (ajout, suppression)
+- [x] Fonctionnement basique du deck de cartes (ajout, suppression)
 - [ ] Ajout des assets du deck de cartes
 - [ ] Ajout des modifiers sur les cartes
 - [ ] Fonctionnement du jetons x multi (bien faire attention à traiter les cartes de gauche à droite)
